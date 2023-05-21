@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️Projeto 
-este é um projeto web responsivo de umma capsula do tempo para exibir memorias em uma linha do tempo
+Este é um projeto web responsivo de uma capsula do tempo para exibir memorias em uma linha do tempo.
 
 ## 🚀Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
